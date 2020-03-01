@@ -1,0 +1,16 @@
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\CurrencyConvert.deps.json
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\CurrencyConvert.runtimeconfig.json
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\CurrencyConvert.runtimeconfig.dev.json
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\CurrencyConvert.dll
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.csprojAssemblyReference.cache
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.RazorAssemblyInfo.cache
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.RazorAssemblyInfo.cs
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.AssemblyInfoInputs.cache
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.AssemblyInfo.cs
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.RazorTargetAssemblyInfo.cache
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\bin\Debug\netcoreapp2.1\CurrencyConvert.pdb
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.dll
+C:\Users\Lennert\source\repos\CurrencyConvert\CurrencyConvert\obj\Debug\netcoreapp2.1\CurrencyConvert.pdb
